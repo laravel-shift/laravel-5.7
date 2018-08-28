@@ -1,6 +1,6 @@
-# Laravel 5.6 for Laravel Shift
+# Laravel 5.7 for Laravel Shift
 
-This repository contains the latest version of Laravel 5.6. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
+This repository contains the latest version of Laravel 5.7. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
 ## Laravel Shift
 *Laravel Shift* focuses on providing automated and [human services](https://laravelshift.com/human-services) for upgrading and improving your Laravel applications.
@@ -14,6 +14,7 @@ Shifts for *Laravel* include:
 - [Laravel 5.4 Shift - upgrade from Laravel 5.3 to 5.4](https://laravelshift.com/upgrade-laravel-5.3-to-laravel-5.4)
 - [Laravel 5.5 Shift - upgrade from Laravel 5.4 to 5.5](https://laravelshift.com/upgrade-laravel-5.4-to-laravel-5.5)
 - [Laravel 5.6 Shift - upgrade from Laravel 5.5 to 5.6](https://laravelshift.com/upgrade-laravel-5.5-to-laravel-5.6)
+- [Laravel 5.7 Shift - upgrade from Laravel 5.6 to 5.7](https://laravelshift.com/upgrade-laravel-5.6-to-laravel-5.7)
 - [Laravel Tests Shift - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter) 
 - [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
