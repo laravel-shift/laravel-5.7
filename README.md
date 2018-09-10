@@ -14,7 +14,7 @@ Shifts for *Laravel* include:
 - [Laravel 5.4 Shift - upgrade from Laravel 5.3 to 5.4](https://laravelshift.com/upgrade-laravel-5.3-to-laravel-5.4)
 - [Laravel 5.5 Shift - upgrade from Laravel 5.4 to 5.5](https://laravelshift.com/upgrade-laravel-5.4-to-laravel-5.5)
 - [Laravel 5.6 Shift - upgrade from Laravel 5.5 to 5.6](https://laravelshift.com/upgrade-laravel-5.5-to-laravel-5.6)
-- [Laravel 5.7 Shift - upgrade from Laravel 5.5 to 5.6](https://laravelshift.com/upgrade-laravel-5.6-to-laravel-5.7)
+- [Laravel 5.7 Shift - upgrade from Laravel 5.6 to 5.7](https://laravelshift.com/upgrade-laravel-5.6-to-laravel-5.7)
 - [Laravel Tests Shift - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter) 
 - [Laravel Analyzer - are you following the "Laravel Way"](https://laravelshift.com/opinionated-laravel-way-shift) 
